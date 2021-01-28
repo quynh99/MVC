@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "php"
+		},
+		{
+			"path": "..\\..\\Users\\meos2\\OneDrive\\Desktop\\front-end_trangDe3"
+		},
+		{
+			"path": "mvc"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front-end_trangDe3"
+	}
+}
